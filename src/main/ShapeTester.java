@@ -24,7 +24,6 @@ public class ShapeTester {
         Square s = new Square(5);
 
         Rectangle r = new Rectangle(4, 7);
-        Rectangle r = new Rectangle(4);
 
         System.out.println("The length of the square is: " + s.getLength());
         System.out.println("The area of the square is: " + s.getArea());
